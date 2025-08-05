@@ -1,7 +1,10 @@
-# <a href="https://www.linkedin.com/in/jacob-vasquez-b46056257/">Jacob Vasquez</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/jacob-vasquez-b46056257/">Jacob Vasquez</a>'s IT and Cybersecurity Project 
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+---
 
+**Driven by a passion for cybersecurity and a relentless curiosity for solving complex challenges, I thrive in hands-on projects that dive deep into threat detection, vulnerability management, and security operations. As an experienced professional, business owner, and leader, I bring both technical depth and strategic vision to the table. My work reflects a commitment to strengthening security frameworks while continuously evolving with the industry. With a long-term goal of ethical hacking, I’m excited to contribute meaningfully to the cybersecurity landscape and help organizations stay one step ahead.**
+
+---
 
 ## ⚠️ Vulnerability Management Projects
 
