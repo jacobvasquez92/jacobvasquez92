@@ -23,7 +23,7 @@
 ⚠️ Administrative Privileges
 The script modifies a HKEY_LOCAL_MACHINE registry hive, which requires administrator rights. The user must run PowerShell as an administrator for the script to execute successfully. If not, you will encounter an "Access is denied" error.
     Example syntax:
-    PS C:\> .\__remediation_template(STIG-ID-WN10-CC-000145).ps1 
+    PS C:\> .\STIG-ID-WN10-CC-000145.ps1 
 #>
 # Define the registry path, value name, and value
 $registryPath = "HKLM:\SOFTWARE\Policies\Microsoft\Power\PowerSettings\0e796bdb-100d-47d6-a2d5-f7d2daa51f51\"
