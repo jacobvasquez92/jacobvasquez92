@@ -26,7 +26,7 @@
     If the value for "nx" is not "OptOut", this is a finding.
     (The more restrictive configuration of "AlwaysOn" would not be a finding.) any usage instructions here.
     Example syntax:
-    PS C:\> .\__remediation_template(STIG-ID- WN10-00-000145).ps1 
+    PS C:\> .\STIG-ID- WN10-00-000145.ps1 
 #>
 
 # This script remediates STIG WN10-00-000145 by enabling the policy
