@@ -10,7 +10,7 @@
 
 - **[Vulnerability Management Program Implementation](https://github.com/jacobvasquez92/vulnerability-management-program/blob/main/README.md)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-- **[STIGS Compliance Remediation](https://github.com/jacobvasquez92/jacobvasquez92/tree/main/STIGS)**
+- **[STIGS Windows 10 Compliance Remediation](https://github.com/jacobvasquez92/jacobvasquez92/tree/main/STIGS)**
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jacobvasquez92/threat-hunting-scenario-tor)**
