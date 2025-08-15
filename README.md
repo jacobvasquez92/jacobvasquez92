@@ -14,6 +14,9 @@
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jacobvasquez92/threat-hunting-scenario-tor)**
+## :newspaper: Long Form Articles
+- [Medium](https://medium.com/@rocksglass92)  
+
 
 <hr/>
 
