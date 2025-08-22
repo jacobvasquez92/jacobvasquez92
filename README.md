@@ -9,7 +9,7 @@
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/jacobvasquez92/vulnerability-management-program/blob/main/README.md)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
+- **Programmatic Vulnerability Remediations (PowerShell and BASH)**
 - **[STIGS Compliance Programmatic Remediation: Windows 10](https://github.com/jacobvasquez92/jacobvasquez92/tree/main/STIGS)**
 ## 🚨 Threat Hunting and Security Operations
 
