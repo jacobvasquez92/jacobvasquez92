@@ -14,6 +14,7 @@
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jacobvasquez92/threat-hunting-scenario-tor)**
+- **Windows 10 Threat Hunting Lab - Single VM Edition**
 ## :newspaper: Long Form Articles
 - [Medium](https://medium.com/@rocksglass92)  
 
