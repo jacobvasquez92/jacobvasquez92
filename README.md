@@ -18,7 +18,8 @@
 ## :newspaper: Long Form Articles
 - [Medium](https://medium.com/@rocksglass92)
 
-## 🛠️ Frameworks (NIST, ISO, RMF) 
+## 🛠️ Frameworks (NIST, ISO, RMF)   
+- [Succinct and accessible summaries of various cybersecurity frameworks, including NIST, ISO 27001, and MITRE ATT&CK](https://github.com/jacobvasquez92/cybersecurity-framework-summaries/tree/main).
 
 
 <hr/>
