@@ -24,7 +24,7 @@
     Check if the following registry value does not exist or is not configured as specified, this is a finding:
     Registry Hive: HKEY_LOCAL_MACHINE
     Registry Path: \SYSTEM\CurrentControlSet\Services\LanmanWorkstation\Parameters\
-    Value Name: RequireSecuritySignatureFilterAdministratorToken
+    Value Name: RequireSecuritySignature
     Value Type: REG_DWORD
     Value: 1
 
