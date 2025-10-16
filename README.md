@@ -5,12 +5,20 @@
 **Driven by a passion for cybersecurity and a relentless curiosity for solving complex challenges, I thrive in hands-on projects that dive deep into threat detection, vulnerability management, and security operations. As an experienced professional, business owner, and leader, I bring both technical depth and strategic vision to the table. My work reflects a commitment to strengthening security frameworks while continuously evolving with the industry. With a long-term goal of ethical hacking, I’m excited to contribute meaningfully to the cybersecurity landscape and help organizations stay one step ahead.**
 
 ---
+## 🗺️🧭 Azure Attack Maps and Log Visualizations  
+
+- **[Entrad ID (Azure) Authentication Success](https://github.com/jacobvasquez92/Attack-Maps-and-Log-Visualizations/blob/main/Entrada%20ID%20(Azure)%20Authentication%20Success.md)**
+- **[Entrad ID (Azure) Authentication Success](https://github.com/jacobvasquez92/Attack-Maps-and-Log-Visualizations/blob/main/Entrada%20ID%20(Azure)%20Authentication%20Failures.md)**
+- **[Azure Resource Creation](https://github.com/jacobvasquez92/Attack-Maps-and-Log-Visualizations/blob/main/Azure%20Resource%20Creation.md)**
+- **[VM Authentication Failures](https://github.com/jacobvasquez92/Attack-Maps-and-Log-Visualizations/blob/main/VM%20Authentication%20Failures.md)**
+- **[Malicious Traffic Entering the Network](https://github.com/jacobvasquez92/Attack-Maps-and-Log-Visualizations/blob/main/Malicious-Traffic.md)**
 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/jacobvasquez92/vulnerability-management-program/blob/main/README.md)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/jacobvasquez92/programmatic-vulnerability-remediations)**
 - **[STIGS Compliance Programmatic Remediation: Windows 10](https://github.com/jacobvasquez92/jacobvasquez92/tree/main/STIGS)**
+
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jacobvasquez92/threat-hunting-scenario-tor)**
