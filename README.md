@@ -27,10 +27,10 @@
 ## 🖥️ Network Design Project  
 - **[Part 1: Current Network Architecture and Recommended Enhancements](https://github.com/jacobvasquez92/Network-Design-Part-1/blob/main/README.md)** 
 ## :newspaper: Long Form Articles
-- [Medium](https://medium.com/@rocksglass92)
+- **[Medium](https://medium.com/@rocksglass92)**
 
 ## 🛠️ Frameworks (NIST, ISO, RMF)   
-- [Succinct and accessible summaries of various cybersecurity frameworks, including NIST, ISO 27001, and MITRE ATT&CK](https://github.com/jacobvasquez92/cybersecurity-framework-summaries/tree/main).
+- **[Succinct and accessible summaries of various cybersecurity frameworks, including NIST, ISO 27001, and MITRE ATT&CK](https://github.com/jacobvasquez92/cybersecurity-framework-summaries/tree/main).**
 
 
 <hr/>
