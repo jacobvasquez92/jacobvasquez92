@@ -7,6 +7,7 @@
 ---
 ## 🗺️🧭 Azure Attack Maps and Log Visualizations  
 
+- **[README](https://github.com/jacobvasquez92/Attack-Maps-and-Log-Visualizations/blob/main/README.md)**
 - **[Entrad ID (Azure) Authentication Success](https://github.com/jacobvasquez92/Attack-Maps-and-Log-Visualizations/blob/main/Entrada%20ID%20(Azure)%20Authentication%20Success.md)**
 - **[Entrad ID (Azure) Authentication Success](https://github.com/jacobvasquez92/Attack-Maps-and-Log-Visualizations/blob/main/Entrada%20ID%20(Azure)%20Authentication%20Failures.md)**
 - **[Azure Resource Creation](https://github.com/jacobvasquez92/Attack-Maps-and-Log-Visualizations/blob/main/Azure%20Resource%20Creation.md)**
