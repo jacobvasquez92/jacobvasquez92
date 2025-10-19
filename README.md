@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/jacob-vasquez-b46056257/">Jacob Vasquez</a>'s IT and Cybersecurity Project 
+# <a href="https://www.linkedin.com/in/jacob-vasquez-b46056257/">Jacob Vasquez</a>'s IT and Cybersecurity Projects 
 
 ---
 
