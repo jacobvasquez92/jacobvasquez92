@@ -27,7 +27,7 @@
 ## 🖥️ Network Design Project  
 - **[Part 1: Current Network Architecture and Recommended Enhancements](https://github.com/jacobvasquez92/Network-Design-Part-1/blob/main/README.md)**
 -  [**Firewall Analyst**](https://github.com/jacobvasquez92/Firewall-Monitoring-Daily-Duties.md)
--  ** Part 2: Firewall Selection and Placement **
+-  **Part 2: Firewall Selection and Placement**
 ## :newspaper: Long Form Articles
 - **[Medium](https://medium.com/@rocksglass92)**
 
