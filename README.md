@@ -21,7 +21,7 @@
 - **[STIGS Compliance Programmatic Remediation: Windows 10](https://github.com/jacobvasquez92/jacobvasquez92/tree/main/STIGS)**
 
 ## 🚨 Threat Hunting and Security Operations
-
+- **[Azuki Series Pt.1 - Port of Entry](https://github.com/jacobvasquez92/Azuki-Series-Pt.1-Port-of-Entry/tree/main)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jacobvasquez92/threat-hunting-scenario-tor)**
 - **[Windows 10 Threat Hunting Lab - Single VM Edition](https://github.com/jacobvasquez92/Hunting-the-Enemy-Within-Simulated-Adversary-Activity/blob/main/README.md)**
 
