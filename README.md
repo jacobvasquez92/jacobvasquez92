@@ -28,12 +28,20 @@
 ## 🖥️ Network Design Project 
 
 - **[Part 1: Current Network Architecture and Recommended Enhancements](https://github.com/jacobvasquez92/Network-Design-Part-1/blob/main/README.md)**
--  [**Firewall Analyst-Daily Duties**](https://github.com/jacobvasquez92/Firewall-Monitoring-Daily-Duties.md)
--  **[Part 2: Firewall Selection and Placement](https://github.com/jacobvasquez92/Firewall-Selection-Placement.md/blob/main/README.md)**
--  **[Part 3: Remote Access & VPNs](https://github.com/jacobvasquez92/Remote-Access-and-VPNs-Part-3/blob/main/README.md)**
--  **[Part 4: Network Redesign & Security Enhancement Proposal](https://github.com/jacobvasquez92/Network-Redesign-Security-Enhancement-Proposal-Part-4/edit/main/README.md)**
-## :newspaper: Long Form Articles
-- **[Medium](https://medium.com/@rocksglass92)**
+- **[Firewall Analyst-Daily Duties**](https://github.com/jacobvasquez92/Firewall-Monitoring-Daily-Duties.md)**
+- **[Part 2: Firewall Selection and Placement](https://github.com/jacobvasquez92/Firewall-Selection-Placement.md/blob/main/README.md)**
+- **[Part 3: Remote Access & VPNs](https://github.com/jacobvasquez92/Remote-Access-and-VPNs-Part-3/blob/main/README.md)**
+- **[Part 4: Network Redesign & Security Enhancement Proposal](https://github.com/jacobvasquez92/Network-Redesign-Security-Enhancement-Proposal-Part-4/edit/main/README.md)**
+## :newspaper: Long Form Articles by Jacob Vasquez
+- **[The Persistent Threat of ADOT Smishing Scams](https://medium.com/@rocksglass92/the-persistent-threat-of-adot-smishing-scams-4908783c5a88)**
+- **[Performing a Network Vulnerability Scan with OpenVAS (GVM)**](https://medium.com/@rocksglass92/performing-a-network-vulnerability-scan-with-openvas-gvm-de4143c0e958)**
+- **[NIST SP 800–82r3, “Guide to Operational Technology (OT) Security, What the heck is it?**](https://medium.com/@rocksglass92/nist-sp-800-82r3-guide-to-operational-technology-ot-security-what-the-heck-is-it-c34576b66216)**
+- **[Unveiling the Shadows: Facebook’s Disturbing Data-Sharing Empire Exposed in Alarming Study**](https://medium.com/@rocksglass92/unveiling-the-shadows-facebooks-disturbing-data-sharing-empire-exposed-in-alarming-study-e2ef99d605dc)**
+- **[“Is it safe at the Office: Unveiling the Persistent Threat of Microsoft Teams Phishing Scams”**](https://medium.com/@rocksglass92/is-it-safe-at-the-office-unveiling-the-persistent-threat-of-microsoft-teams-phishing-scams-8c8b0a1bf0b8)**
+- **[Digital Danger: The Risks of Using Public Wi-Fi: Safeguarding Your Digital Footprint**](https://medium.com/@rocksglass92/digital-danger-54e82357e800)**
+- **[Navigating Cybersecurity Challenges for Newly Forming Small Businesses: Safeguarding Intellectual Property in the Digital Age**](https://medium.com/@rocksglass92/navigating-cybersecurity-challenges-for-newly-forming-small-businesses-safeguarding-intellectual-72f4cced1a12)**
+- **[Safeguarding Our Beloved Grandparents: Navigating the Cybersecurity Challenges**](https://medium.com/@rocksglass92/safeguarding-our-beloved-grandparents-navigating-the-cybersecurity-challenges-ead045112bc)**
+
 
 ## 🛠️ Frameworks (NIST, ISO, RMF)   
 - **[Succinct and accessible summaries of various cybersecurity frameworks, including NIST, ISO 27001, and MITRE ATT&CK](https://github.com/jacobvasquez92/cybersecurity-framework-summaries/tree/main).**
