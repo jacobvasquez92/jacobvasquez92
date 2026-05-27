@@ -24,7 +24,10 @@
 - **[Azuki Series Pt.1 - Port of Entry](https://github.com/jacobvasquez92/Azuki-Series-Pt.1-Port-of-Entry/tree/main)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jacobvasquez92/threat-hunting-scenario-tor)**
 - **[Windows 10 Threat Hunting Lab - Single VM Edition](https://github.com/jacobvasquez92/Hunting-the-Enemy-Within-Simulated-Adversary-Activity/blob/main/README.md)**
+## 🍯 Active Directory Honeypot Lab — IDS & SIEM Monitoring
 
+- **[Full Tutorial & Setup Guide](https://github.com/jacobvasquez92/active-directory-honeypot-lab/blob/main/README.md)**
+- **[Troubleshooting Guide](https://github.com/jacobvasquez92/active-directory-honeypot-lab/blob/main/troubleshooting.md)**
 ## 🖥️ Network Design Project 
 
 - **[Part 1: Current Network Architecture and Recommended Enhancements](https://github.com/jacobvasquez92/Network-Design-Part-1/blob/main/README.md)**
