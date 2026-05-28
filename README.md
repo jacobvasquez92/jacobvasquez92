@@ -25,8 +25,8 @@
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jacobvasquez92/threat-hunting-scenario-tor)**
 - **[Windows 10 Threat Hunting Lab - Single VM Edition](https://github.com/jacobvasquez92/Hunting-the-Enemy-Within-Simulated-Adversary-Activity/blob/main/README.md)**
 ## 🍯 Active Directory Honeypot Lab — IDS & SIEM Monitoring
-
-- **[Full Tutorial & Setup Guide](https://github.com/jacobvasquez92/active-directory-honeypot-lab/blob/main/README.md)**
+- **[Active Directory with 1000 Users Full Tutorial & Setup Guide](https://github.com/jacobvasquez92/active-directory-setup-1000-users-lab)**
+- **[Active Directory Honeypot Full Tutorial & Setup Guide](https://github.com/jacobvasquez92/active-directory-honeypot-lab/blob/main/README.md)**
 - **[Troubleshooting Guide](https://github.com/jacobvasquez92/active-directory-honeypot-lab/blob/main/troubleshooting.md)**
 ## 🖥️ Network Design Project 
 
